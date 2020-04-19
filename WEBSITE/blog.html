@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .hello{
+        position: relative;
+        background: #000;
+        padding: 20px;
+        height: 200px;
+      }
+      .manu{
+        height:100px;
+        width: 50%;
+        background: pink;
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translate(0, -50%);
+      }
+
+
+      /* #Tablet (Portrait) */
+      @media only screen and (min-width: 768px) and (max-width: 959px) {
+        .container {
+          width: 768px; 
+        }
+      }
+
+      /*  #Mobile (Portrait) - Note: Design for a width of 320px */
+      @media only screen and (max-width: 767px) {
+        .container { 
+          width: 95%; 
+        }
+        
+        #portfoliolist .portfolio {
+          width:48%;
+          margin:1%;
+        }		
+      }
+
+      /* #Mobile (Landscape) - Note: Design for a width of 480px */
+      @media only screen and (min-width: 480px) and (max-width: 767px) {
+        .container {
+          width: 70%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="hello">
+      <div class="manu"></div>
+    </div>
+  </body>
+</html>
+
+
+
+
+
+

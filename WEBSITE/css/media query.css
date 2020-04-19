@@ -1,0 +1,379 @@
+
+@media (max-width: 1199px) { 
+
+    .banner-heading {
+        font-size: 2.51rem;
+        font-weight: 900;
+    }
+    span.background-content {
+        font-size: 191px;
+        top: 0;
+    }
+    span.background-content-works {
+        font-size: 154px;
+    }
+    .process-left-content {
+        font-size: 18px;
+        line-height: 38px;
+        color: #566977;
+    }
+    .our-projects-title {
+        font-size: 165px;
+        top: 0; 
+    }
+    span.services-heading {
+        font-size: 206px;
+        top: -2%;
+    }
+    
+    
+   
+
+}
+
+@media (max-width: 991px) { 
+
+   
+    .banner-heading {
+        font-size: 2.34rem;
+        font-weight: 1100;
+    }
+    .banner-content {
+        font-size: 16px;
+    }
+    span.background-content {
+        font-size: 170px;
+        top: 0;
+    }
+    .about-content {
+        font-size: 16px;
+    }
+    span.background-content-works {
+        font-size: 131px;
+    }
+    .process-left-content {
+        font-size: 18px;
+    }
+    .process-text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .team-list {
+        margin-top: 55px;
+        margin-left: -31px;
+    }
+    .members {
+        margin-top: 41px;
+        padding-left: 55px;
+    }
+    .portfolio-section {
+        padding-bottom: 10%;
+    }
+    section#contact {
+        padding-top: 31%;
+        padding-bottom: 5%;
+    }
+    span.services-heading {
+        font-size: 181px;
+        top: -35px;
+    }
+    .our-projects-title {
+        font-size: 133px;
+        top: 0;
+    }
+    span.background-content-experts {
+        font-size: 191px;
+        top: -41px;
+    }
+    .footer-widget-heading h3 {
+        top: 15px;
+    }
+    .cta-text {
+        max-width: 85%;
+    }
+    /* .navbar-collapse {
+        background: #fff;
+    } */
+    
+    .navbar-light .navbar-collapse {
+        background: lightgrey;
+        width: 100%;
+        /* box-shadow: 0px 0px 5px rgba(0,0,0,0.1);  */
+        /* color: white; */
+    }
+   
+
+    
+
+
+}
+
+@media (max-width: 767px) {
+
+    .banner-heading {
+        font-size: 2.1rem; 
+    }
+    .banner-content {
+        font-size: 18px;
+    }
+    span.background-content {
+        font-size: 121px;
+        top: 0;
+    }
+    span.background-content-works {
+        font-size: 99px;
+        top: 5px;
+    }
+    .process-left-content {
+        font-size: 17px;
+    }
+    .process-text p {
+        font-size: 13px;
+    }
+    .process-text.h3, h3 {
+        font-size: 1.33rem;
+    }
+    span.background-content-experts {
+        font-size: 151px;
+        top: 0;
+    }
+    .team-list {
+        margin-top: 55px;
+    }
+    .portfolio-section {
+        padding-bottom: 17%;
+    }
+    section#contact {
+        padding-top: 37%;
+    }    
+    .contact .content .info {
+        margin-bottom: 40px;
+    }
+    span.services-heading {
+        font-size: 131px;
+        top: -25px;
+    }
+    .our-projects-title {
+        font-size: 101px;
+        top: 0;
+    }
+    span.background-content-experts {
+        font-size: 131px;
+        top: 0;
+    }
+    span.background-content-experts {
+        font-size: 140px;
+        top: -25px;
+    }
+
+    
+  
+
+}
+
+@media (max-width: 575px) { 
+
+    .banner-heading {
+        font-size: 2.19rem;
+    }
+    .banner-content {
+        font-size: 16px;
+    }
+    .banner-btn {
+        min-width: 161px; 
+    }
+    span.background-content {
+        font-size: 82px;
+        top: 0;
+    }
+    .img-fluid.works {
+        width: 100%;
+    }
+    span.background-content-works {
+        font-size: 73px;
+        top: 10px;
+    }
+    .portfolio-section {
+        padding-bottom: 29%;
+    }
+    section#contact {
+        padding-top: 47%;
+        padding-bottom: 10%;
+
+    }
+    span.services-heading {
+        font-size: 87px;
+        top: -11px;
+    }
+    .our-projects-title {
+        font-size: 77px;
+        top: 0;
+    }
+    span.background-content-experts {
+        font-size: 95px;
+        top: -11px;
+    }
+    #team .team-section-text {
+        /* padding-top: 70px; */
+        margin-top: -91px;
+    }
+    #team .team-list > ul.team-members > li {
+        display: inline;
+        /* margin: 11px; */
+        padding-left: 21px;
+    }
+    #team .team-list > ul > li.active::after {
+        top: 101%;
+        margin-right: 47px;
+    }
+    .footer-widget-heading h3 {
+        top: 15px;
+    }
+    
+    
+
+}
+
+@media (max-width: 360px) { 
+    
+    .banner-heading {
+        font-size: 1.19rem;
+    }
+    img.logo {
+        width: 171px;
+    }
+    .banner-content {
+        font-size: 14px;
+    }
+    .banner-btn {
+        font-size: 14px;
+        min-width: 121px;
+    }
+    span.background-content {
+        font-size: 47px;
+        top: 0;
+    }
+    span.background-content-works {
+        font-size: 45px;
+        top: 10px;
+    }
+    .process-title h2 {
+        font-size: 51px;
+        color: #00BCD4;
+        font-weight: bold;
+    }
+    .process-left-content {
+        font-size: 16px;
+    }
+    .process-text.h3, h3 {
+        font-size: 1.37rem;
+    }
+    .process-left-content {
+	font-size: 14px;
+    }
+    .portfolio-section {
+        padding-bottom: 60%;
+    }
+    #customersCats {
+        margin-bottom: 65px;
+    }
+    section#contact {
+        padding-top: 82%;
+    }
+    span.services-heading {
+        font-size: 51px;
+        top: 0;
+    }
+    .our-projects-title {
+        font-size: 46px;
+        top: 11px;
+    }
+    span.background-content-experts {
+        font-size: 51px;
+        top: 0;
+    }
+    #team .team-section-text {
+        /* padding-top: 70px; */
+        margin-top: 0;
+    }
+    #team {
+        padding-top: 21px;
+    }
+    #team .team-list > ul.team-members > li {
+        display: inline;
+        margin-left: 15px;
+    }
+    #team .team-list > ul > li > a > figure {
+        height: 61px;
+        max-width: 64px;
+        margin: -11px;
+    }
+    #team .team-list > ul > li.active::after {
+        top: 211%;
+        margin-right: 21px;
+    }
+    #team .team-single {
+        width: 291px;
+    }
+    #team .team-img > img {
+        height: 310px;  
+    }
+}
+
+
+@media (max-width: 320px) {
+
+    #team .team-single {
+        width: 252px;
+    }
+    #team .team-list > ul > li > a > figure {
+        height: 55px;
+        max-width: 54px;
+        margin: -11px;
+    }
+    section#contact {
+        padding-top: 118%;
+    }
+    .testim {
+        margin-top: 31%;
+      
+    }
+    #team .team-section-text {
+        /* padding-top: 70px; */
+        margin-top: 0;
+    }
+
+    #team .team-img > img {
+        height: 310px;  
+    }
+}
+
+
+@media only screen and (min-width: 375px) and (max-width: 667px) {
+    
+    
+    span.services-heading {
+        font-size: 61px;
+        top: 0;
+    }
+    span.background-content-experts {
+        font-size: 66px;
+        top: 0;
+    }
+    
+    #team .team-list>ul {
+        list-style: none;
+        margin: 40px;
+        padding: 0;
+    }
+
+}
+
+
+@media only screen and (min-width: 375px) and (max-width: 667px) {
+    
+    
+   
+
+}
+
